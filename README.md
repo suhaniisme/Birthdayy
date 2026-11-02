@@ -1,4 +1,4 @@
-# Birthdayy Page 🎉🎂
+# Birthdayy 🎉🎂
 
 A feature-rich, delightful web application engineered to help you effortlessly track birthdays, manage personal relationship milestones, and send automated wishes so you never miss celebrating your friends, family, and colleagues' special days.
 
